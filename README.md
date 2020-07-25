@@ -1,3 +1,3 @@
 # BSC
 This is my first repository about designing Database and includes all scripts used in database. 
-You can find my sample SQL query codes. 
+You can find my sample SQL query codes both in sql server database after restoring and read the all .txt files.
